@@ -1,10 +1,10 @@
 <!-- 💾 F3L GitHub Profile README -->
 
 <p align="center">
-  <img src="https://github.com/f3l-0x46334C/blob/main/assets/logo.png" alt="F3L Logo" width="128"/>
+  <img src="https://github.com/f3l-0x46334C/blob/main/assets/logo.png](https://avatars.githubusercontent.com/u/239205871?v=4" alt="F3L Logo" width="128"/>
 </p>
 
-<h1 align="center">💾 F3L</h1>
+<h1 align="center">F 3 L</h1>
 <p align="center">
 Curious about computers since the floppy era 💾<br>
 🎓 Computer Engineer | 🎮 Gamer & Dev | 🎨 Pixel Artist & Video Editor | 🐍 Learning Python + NLP on Linux
