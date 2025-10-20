@@ -1,16 +1,51 @@
-## Hi there 👋
+<!-- 💾 F3L GitHub Profile README -->
 
-<!--
-**f3l-0x46334C/f3l-0x46334C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/f3l-0x46334C/blob/main/assets/logo.png" alt="F3L Logo" width="128"/>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">💾 F3L</h1>
+<p align="center">
+Curious about computers since the floppy era 💾<br>
+🎓 Computer Engineer | 🎮 Gamer & Dev | 🎨 Pixel Artist & Video Editor | 🐍 Learning Python + NLP on Linux
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 👋 About Me
+
+- 💡 Started with computers before elementary school — built my first blog as a kid  
+- 🌐 Learned HTML & CSS in middle school, built & edited my own web templates  
+- 🏫 Learned **C#** in high school and explored console programming  
+- 🕹️ Game dev enthusiast — created small 2D & 3D games in Unity  
+- 🎨 Pixel artist using Aseprite | 🎥 Video editor (Premiere)  
+- 🧠 Currently learning **Python + NLP** on **Linux**  
+- 💬 Languages: English (fluent), learning German 🇩🇪  
+
+---
+
+### ⚙️ Tech Stack
+
+💻 **Languages & Tools:**  
+`Python` | `HTML` | `CSS` | `C#` | `Unity` | `Aseprite` | `Premiere Pro` | `Linux` | `Git` | `VS Code`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=f3l-0x46334C&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3l-0x46334C&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+### 📫 Connect
+
+🌐 [GitHub Profile](https://github.com/f3l-0x46334C)  
+📧 *Coming soon...*
+
+---
+
+⭐ *If you like my projects, don’t forget to star them!*
